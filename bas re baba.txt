@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 bas re baba
 
 pingaro zingaro chi beer takatak
+=======
+bas re baba
+>>>>>>> 1a9d31918d6c4ca69e5ca2b4cd89076e6aac083f
